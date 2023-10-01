@@ -1,0 +1,5 @@
+This is a simple test file.
+It contains several lines of text.
+Each line has words and punctuation.
+Testing the word extraction program.
+Let's see how well it works!
